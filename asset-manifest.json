@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ws101-sesgundo-navbar/static/css/main.cdf2ee2b.css",
+    "main.js": "/ws101-sesgundo-navbar/static/js/main.ec086833.js",
+    "static/js/453.aabf3285.chunk.js": "/ws101-sesgundo-navbar/static/js/453.aabf3285.chunk.js",
+    "index.html": "/ws101-sesgundo-navbar/index.html",
+    "main.cdf2ee2b.css.map": "/ws101-sesgundo-navbar/static/css/main.cdf2ee2b.css.map",
+    "main.ec086833.js.map": "/ws101-sesgundo-navbar/static/js/main.ec086833.js.map",
+    "453.aabf3285.chunk.js.map": "/ws101-sesgundo-navbar/static/js/453.aabf3285.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdf2ee2b.css",
+    "static/js/main.ec086833.js"
+  ]
+}
