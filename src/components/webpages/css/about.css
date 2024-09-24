@@ -1,0 +1,19 @@
+.about {
+  max-width: 75%;
+
+  > h1 {
+    text-align: center;
+    padding: 1rem;
+  }
+  > blockquote {
+    border-left: 5px white solid;
+    padding-left: 1rem;
+
+    text-align: justify;
+
+    &:first-letter {
+      font-size: 2rem;
+      padding-left: 2rem;
+    }
+  }
+}
